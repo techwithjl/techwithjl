@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm JL 👋
 
-<!--
-**techwithjl/techwithjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Madonna University, Nigeria, focused on **embedded systems**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning C and C++ for low-level programming
+- Building toward hands-on work with **STM32** and **ESP32** microcontrollers
+- Practicing GPIO, timers, interrupts, and serial protocols like UART and I2C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+`C` `C++` `Python` `Git` `STM32` `ESP32`
+
+## Goals
+I'm aiming for an embedded or firmware internship where I can learn from experienced engineers and ship real hardware projects.
+
+## Let's connect
+- LinkedIn: https://www.linkedin.com/in/josephlast
+- Email: josephlastasika@gmail.com
